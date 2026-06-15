@@ -15,11 +15,11 @@ insights for a simulated UK fintech lender.
 - 73.6% of loans are Micro or Small,  confirming a micro-lending portfolio
 
 ## Dashboard Pages
-1. Executive Summary; Portfolio KPIs and default overview
-2. Default Risk Analysis; Default rate by purpose and loan term
-3. Customer Risk Profile; Credit score, income, and home ownership
-4. Credit History and Behaviour; Bankruptcies and risk classification
-5. Portfolio Overview; Portfolio composition and exposure analysis
+1. Executive Summary: Portfolio KPIs and default overview
+2. Default Risk Analysis: Default rate by purpose and loan term
+3. Customer Risk Profile: Credit score, income, and home ownership
+4. Credit History and Behaviour: Bankruptcies and risk classification
+5. Portfolio Overview: Portfolio composition and exposure analysis
 
 ## Tools Used
 - Microsoft Excel: data cleaning, sentinel value handling 
@@ -39,5 +39,4 @@ Kaggle Bank Loan Status Dataset: credit_train.csv
 <img width="1500" height="851" alt="03_customer_risk_portfolio" src="https://github.com/user-attachments/assets/9574d9c7-e5ff-4a23-9959-7f766e317034" />
 <img width="1500" height="851" alt="04_credit_history_behaviour" src="https://github.com/user-attachments/assets/f71e67f2-daa7-43cf-9b9e-5cdea1ba9a43" />
 <img width="1500" height="851" alt="05_portfolio_overview" src="https://github.com/user-attachments/assets/a17a9ab3-2a3c-4e74-b813-51b9bc422536" />
-<img width="1943" height="134" alt="fintech_data_cleaning_notes" src="https://github.com/user-attachments/assets/d31ed9df-f04b-46ed-9e61-7f54cfb93ce8" />
-
+<img width="2048" height="993" alt="fintech_data_cleaning_notes" src="https://github.com/user-attachments/assets/7ea886ee-a6c0-4697-b4b5-df88ba7b72fc" />
