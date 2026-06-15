@@ -39,3 +39,4 @@ Kaggle Bank Loan Status Dataset: credit_train.csv
 <img width="1500" height="851" alt="03_customer_risk_portfolio" src="https://github.com/user-attachments/assets/9574d9c7-e5ff-4a23-9959-7f766e317034" />
 <img width="1500" height="851" alt="04_credit_history_behaviour" src="https://github.com/user-attachments/assets/f71e67f2-daa7-43cf-9b9e-5cdea1ba9a43" />
 <img width="1500" height="851" alt="05_portfolio_overview" src="https://github.com/user-attachments/assets/a17a9ab3-2a3c-4e74-b813-51b9bc422536" />
+<img width="2048" height="995" alt="fintech_data_cleaning_note" src="https://github.com/user-attachments/assets/1ecc894a-3e37-4a76-a9b4-03abf0881b5c" />
