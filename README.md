@@ -1,4 +1,4 @@
-# UK Retail Lending — Loan Default Risk & Customer Segmentation
+# UK Retail Lending | Loan Default Risk & Customer Segmentation
 
 ## Project Overview
 Analysis of 100,000 loan applications to identify default risk 
@@ -6,30 +6,30 @@ patterns, customer risk profiles, and portfolio composition
 insights for a simulated UK fintech lender.
 
 ## Key Findings
-- 22.64% overall default rate — nearly 1 in 4 loans defaulted
-- small_business loans at 42.05% — highest default rate by purpose
+- 22.64% overall default rate;  nearly 1 in 4 loans defaulted
+- Small-business loans at 42.05%;  highest default rate by purpose
 - Long-term loans default at 30.10% vs 19.77% for short-term
 - Low-income borrowers default at 28.28% vs 17.06% for high income
 - $73.57M of portfolio value at risk from defaulted loans
-- Debt Consolidation dominates at 78,552 loans — 78% of volume
-- 73.6% of loans are Micro or Small — confirmed micro-lending portfolio
+- Debt Consolidation dominates at 78,552 loans; 78% of volume
+- 73.6% of loans are Micro or Small,  confirming a micro-lending portfolio
 
 ## Dashboard Pages
-1. Executive Summary — Portfolio KPIs and default overview
-2. Default Risk Analysis — Default rate by purpose and loan term
-3. Customer Risk Profile — Credit score, income, and home ownership
-4. Credit History and Behaviour — Bankruptcies and risk classification
-5. Portfolio Overview — Portfolio composition and exposure analysis
+1. Executive Summary; Portfolio KPIs and default overview
+2. Default Risk Analysis; Default rate by purpose and loan term
+3. Customer Risk Profile; Credit score, income, and home ownership
+4. Credit History and Behaviour; Bankruptcies and risk classification
+5. Portfolio Overview; Portfolio composition and exposure analysis
 
 ## Tools Used
-- Microsoft Excel — data cleaning, sentinel value handling 
-  five calculated columns (Default Flag, Credit Score Band, 
+- Microsoft Excel: data cleaning, sentinel value handling 
+  Five calculated columns (Default Flag, Credit Score Band, 
   Income Band, Loan Size Category, High Risk Flag)
-- Power BI Desktop — single-table data model, DAX measures, 
+- Power BI Desktop: single-table data model, DAX measures 
   five-page dashboard
 
 ## Data Source
-Kaggle Bank Loan Status Dataset — credit_train.csv
+Kaggle Bank Loan Status Dataset: credit_train.csv
 100,000 loan applications | 19 original columns
 
 ## Screenshots
